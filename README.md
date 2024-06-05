@@ -1,5 +1,5 @@
 # printNumber
 
-## Enter a number from one to nine then the number name is printed
+## basic javaScript switch, prompt, alert, if statement, loop... 
 
 <a href="https://sondosalnbabteh.github.io/printNumber/">Live Link</a>
